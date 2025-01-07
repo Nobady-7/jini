@@ -1,0 +1,71 @@
+.ota{
+    border: 3px solid red;
+    background-color: rgb(122, 238, 242);
+    border-radius: 50px;
+    text-align: center;
+}
+em{
+    color: red;
+}
+.a{
+    color: green;
+    font-size: 20px;
+}
+.r{
+  background-color: yellow; 
+  color: green; 
+  text-align: center;
+}
+.i{
+    margin: 0 auto;
+    text-align: center;
+}
+.g{
+   text-align: center;
+   color: green;
+   background-color: yellow; 
+}
+.l{
+    background-color: black;
+    text-align: center;
+    border-radius: 10px;
+}
+.k{
+ width: 1000px;
+ font-size: 30px;   
+}
+.bos{
+    width: 250px;
+    background-color: darkcyan;
+    color: white;
+}
+.kuchu{
+    background-color: green;
+    color: white;
+}
+.mushu{
+    background-color: black;
+    color: white;
+}
+.red{
+    background-color: red;
+    color: white;
+}
+.black{
+    background-color: black;
+    color: white  ;
+}
+.qzumas{
+    background-color: blue;
+    color: white;
+}
+.pink{
+    background-color: red;
+    color: white;
+}
+.kapitan{
+  border-collapse: collapse;
+  border: 1px solid rgb(75, 70, 70);
+  width: 1000px;
+  text-align: center;
+}
